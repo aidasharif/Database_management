@@ -1,0 +1,3 @@
+Manager,ContractId,Type,CompanyId,AnnualContractValue,InitialValue,StartDate,Service
+Van David,3,Premium,3,32891.52,1629.24,2016-10-28 00:00:00,Cloud
+Van David,9,Gold,3,28340.08,1792.22,2017-06-07 00:00:00,Cloud

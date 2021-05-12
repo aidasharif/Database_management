@@ -1,0 +1,13 @@
+Id,Type,CompanyId,AnnualContractValue,InitialAmount,StartDate,Service
+1,Gold,1,17379.2,1639.28,2016-01-22 0:00,Cloud
+2,Silver,2,12331.69,1497.25,2017-01-20 0:00,On-premises
+3,Premium,3,32891.52,1629.24,2016-10-28 0:00,Cloud
+4,Diamond,4,33067.56,560.4,2017-08-18 0:00,On-premises
+5,Gold,5,15630.85,1211.32,2017-03-31 0:00,Cloud
+6,Silver,6,25784.81,558.49,2016-07-07 0:00,On-premises
+7,Premium,3,36714.83,1094.25,2017-04-23 0:00,Cloud
+8,Diamond,2,26052.73,1327.85,2017-07-28 0:00,On-premises
+9,Gold,3,28340.08,1792.22,2017-06-07 0:00,Cloud
+10,Silver,4,15305.27,1388.3,2016-08-26 0:00,On-premises
+11,Premium,5,31836.63,682.27,2017-05-19 0:00,Cloud
+12,Diamond,6,27813.11,1968.62,2017-10-13 0:00,On-premises
