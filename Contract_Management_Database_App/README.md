@@ -1,7 +1,7 @@
 # COMP 5531 DBMS Project - Contract Management System
 
-This repository stores the source code for the __Comp 5531__  DMBS project completed during the summer 2018 term at [Concordia University](http://www.concordia.ca/) (Montreal, QC, CA).
-
+This repository stores the source code for the __Comp 5531__  DMBS project completed during the summer 2018 term.
+By: Aida Sharif Rohani, Stefan Wapnick, Faezeh Mobasheri, and Bernardo Sandi.
 ### Technologies 
 - MySQL
 - PHP
